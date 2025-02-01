@@ -1,1 +1,0 @@
-import{_ as s,o as a,c as n,Q as l}from"./chunks/framework.a767a766.js";const F=JSON.parse('{"title":"使用","description":"","frontmatter":{},"headers":[],"relativePath":"docs/api/use.md","filePath":"docs/api/use.md"}'),p={name:"docs/api/use.md"},o=l("",5),t=[o];function e(r,c,E,y,i,d){return a(),n("div",null,t)}const g=s(p,[["render",e]]);export{F as __pageData,g as default};
