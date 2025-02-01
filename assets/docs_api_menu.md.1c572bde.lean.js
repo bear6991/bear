@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,Q as l}from"./chunks/framework.a767a766.js";const u=JSON.parse('{"title":"配置菜单","description":"","frontmatter":{},"headers":[],"relativePath":"docs/api/menu.md","filePath":"docs/api/menu.md"}'),p={name:"docs/api/menu.md"},o=l("",5),t=[o];function e(c,r,E,y,i,d){return n(),a("div",null,t)}const h=s(p,[["render",e]]);export{u as __pageData,h as default};
